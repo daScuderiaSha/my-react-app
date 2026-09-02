@@ -6,7 +6,7 @@ import './App.css'
 function Home() {
   return (
     <>
-      <img src="/profile.jpg" alt="Shahid Anjum Shaikh" className="profile-image" />
+      <img src="./profile.jpg" alt="Shahid Anjum Shaikh" className="profile-image" />
       <h1>Shahid Anjum Shaikh</h1>
       <div className="card">
         <Link to="/about" className="nav-link">
