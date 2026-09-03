@@ -1,6 +1,7 @@
 {
   "name": "shahid-website",
   "private": true,
+  "homepage": "https://shasflippedtea.github.io/shahid-website/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
